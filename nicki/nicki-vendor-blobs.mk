@@ -177,6 +177,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nicki/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
     vendor/sony/nicki/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
     vendor/sony/nicki/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
+    vendor/sony/nicki/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/sony/nicki/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
     vendor/sony/nicki/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
     vendor/sony/nicki/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
